@@ -1,8 +1,8 @@
 Status: [DONE]
 
 # How to run
-    1. Clone this repository: git clone 
-    2. Run index.js: node index.js
+    1. Clone this repository: `git clone https://github.com/EzyHow/sb-dev-js-events.git`
+    2. Run index.js: `node index.js`
 
 
 # Research
@@ -16,7 +16,7 @@ Status: [DONE]
         process.nextTick() put the function at the head of queue, so it executes immeditely after execution of current function completes.
 
 # Event loop
-    
+```   
    ┌───────────────────────┐
 ┌─>│        timers         │
 │  └──────────┬────────────┘
@@ -37,3 +37,4 @@ Status: [DONE]
    └───────────────────────┘
 
 source of above flowchart: https://stackoverflow.com/a/44275063
+```
