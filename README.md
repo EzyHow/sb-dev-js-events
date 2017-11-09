@@ -1,8 +1,8 @@
 Status: [DONE]
 
 # How to run
-    1. Clone this repository: ```git clone https://github.com/EzyHow/sb-dev-js-events.git```
-    2. Run index.js: ```node index.js```
+    1. Clone this repository: git clone https://github.com/EzyHow/sb-dev-js-events.git 
+    2. Run index.js: node index.js
 
 
 # Research
